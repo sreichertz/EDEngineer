@@ -6965,7 +6965,7 @@
     "Graphene": {
       "es": "Grafeno",
       "pt": null,
-      "de": null,
+      "de": "Graphen",
       "fr": "Graphène",
       "ru": "Графен",
       "pl": null,
@@ -6977,7 +6977,7 @@
     "Chemical Catalyst": {
       "es": "Catalizador químico",
       "pt": null,
-      "de": null,
+      "de": "chemischer Katalysator",
       "fr": "Catalyseur chimique",
       "ru": "Химический катализатор",
       "pl": null,
@@ -6989,7 +6989,7 @@
     "Circuit Board": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Leiterplatte",
       "fr": "Circuit imprimé",
       "ru": "Электроплата",
       "pl": null,
@@ -7037,7 +7037,7 @@
     "Micro Supercapacitor": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Mikrosuperkondensator",
       "fr": "Microsupercondensateur",
       "ru": "Микросуперконденсаторы",
       "pl": null,
@@ -7049,7 +7049,7 @@
     "Micro Transformer": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Microtransformator",
       "fr": "Microtransformateur",
       "ru": "Микротрансформатор",
       "pl": null,
@@ -7061,7 +7061,7 @@
     "Optical Lens": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Optische Linse",
       "fr": "Lentille optique",
       "ru": "Оптические линзы",
       "pl": null,
@@ -7109,7 +7109,7 @@
     "pH Neutraliser": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "pH Neutralisator",
       "fr": "Neutralisateur de pH",
       "ru": "Нейтрализатор pH",
       "pl": null,
@@ -7121,7 +7121,7 @@
     "Ion Battery": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Ionenbatterie",
       "fr": "Batterie ionique",
       "ru": "Ионная батарея",
       "pl": null,
@@ -7133,7 +7133,7 @@
     "Microelectrode": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Mikroelektrode",
       "fr": "Microélectrode",
       "ru": "Микроэлектрод",
       "pl": null,
@@ -7145,7 +7145,7 @@
     "Aerogel": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Aerogel",
       "fr": "Aérogel",
       "ru": "Аэрогель",
       "pl": null,
@@ -7205,7 +7205,7 @@
     "Optical Fibre": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "optische Faser",
       "fr": "Fibre optique",
       "ru": "Оптоволокно",
       "pl": null,
@@ -7217,7 +7217,7 @@
     "Health Monitor": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Gesundheitsmonitor",
       "fr": "Moniteur médical",
       "ru": "Монитор здоровья",
       "pl": null,
@@ -7241,7 +7241,7 @@
     "Infinity": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Unendlichkeit",
       "fr": "Infini",
       "ru": "Infinity",
       "pl": null,
@@ -7277,7 +7277,7 @@
     "Suit Schematic": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Anzug-Blaupause",
       "fr": "Plan de combinaison",
       "ru": "Эскиз комбинезона",
       "pl": null,
@@ -7289,7 +7289,7 @@
     "Universal Translator": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Universalübersetzer",
       "fr": "Traducteur universel",
       "ru": "Универсальный переводчик",
       "pl": null,
@@ -7337,7 +7337,7 @@
     "Vehicle Schematic": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Fahrzeug-Blaupause",
       "fr": "Plan de véhicule",
       "ru": "Чертёж транспорта",
       "pl": null,
@@ -7361,7 +7361,7 @@
     "Personal Documents": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "persönliche Dokumente",
       "fr": "Documents personnels",
       "ru": "Личные документы",
       "pl": null,
@@ -7373,7 +7373,7 @@
     "Ballistic Data": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Ballitische Daten",
       "fr": "Données balistiques",
       "ru": "Баллистические данные",
       "pl": null,
@@ -7397,7 +7397,7 @@
     "Electromagnet": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Elektromagnet",
       "fr": "Électroaimant",
       "ru": "Электромагнит",
       "pl": null,
@@ -7409,7 +7409,7 @@
     "Motor": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Motor",
       "fr": "Moteur",
       "ru": "Мотор",
       "pl": null,
@@ -7421,7 +7421,7 @@
     "Titanium Plating": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Titanbeschichtung",
       "fr": "Plaques en titane",
       "ru": "Титановая броня",
       "pl": null,
@@ -7433,7 +7433,7 @@
     "Weapon Component": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Waffenkomponente",
       "fr": "Composant d'arme",
       "ru": "Компонент оружия",
       "pl": null,
@@ -7445,7 +7445,7 @@
     "Electrical Fuse": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Elektrische Sicherung",
       "fr": "Fusible électrique",
       "ru": "Предохранитель",
       "pl": null,
@@ -7457,7 +7457,7 @@
     "Epoxy Adhesive": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Epoxidkleber",
       "fr": "Colle époxy",
       "ru": "Эпоксидный клей",
       "pl": null,
@@ -7493,7 +7493,7 @@
     "Push": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Drücken",
       "fr": "Boost",
       "ru": "Рывок",
       "pl": null,
@@ -7517,7 +7517,7 @@
     "Metal Coil": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Magnetische Spule",
       "fr": "Bobine métallique",
       "ru": "Металлическая катушка",
       "pl": null,
@@ -7529,7 +7529,7 @@
     "Epinephrine": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Epinephrin",
       "fr": "Épinéphrine",
       "ru": "Эпинефрин",
       "pl": null,
@@ -7589,7 +7589,7 @@
     "Surveillance Equipment": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Überwachungsequipment",
       "fr": "Équipement de surveillance",
       "ru": "Оборудование для наблюдения",
       "pl": null,
@@ -7853,7 +7853,7 @@
     "Micro Thrusters": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Mikroantriebe",
       "fr": "Micropropulseurs",
       "ru": "Маневровые микродвигатели",
       "pl": null,
